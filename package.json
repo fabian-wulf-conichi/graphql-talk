@@ -1,0 +1,21 @@
+{
+  "name": "graphql-talk",
+  "version": "1.0.0",
+  "author": "Fabian Wulf",
+  "description": "graphql talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "cd graphQL && npm start",
+    "start-client": " cd react-client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabian-wulf-conichi/graphql-talk.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabian-wulf-conichi/graphql-talk/issues"
+  },
+  "homepage": "https://github.com/fabian-wulf-conichi/graphql-talk#readme"
+}
