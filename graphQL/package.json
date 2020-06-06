@@ -13,7 +13,7 @@
     "url": "git+https://github.com/fabian-wulf-conichi/graphql-talk.git"
   },
   "dependencies": {
-    "apollo-server-express": "^2.6.3",
+    "apollo-server-express": "^2.14.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "concurrently": "^4.1.0",
